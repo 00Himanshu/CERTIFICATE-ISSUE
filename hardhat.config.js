@@ -9,7 +9,11 @@ module.exports = {
     },
     hardhat: {
       // See its defaults
-    }
+    },
+    // sepolia: {
+    //   url: "https://eth-sepolia.g.alchemy.com/v2/lHsk508FvXfDO0wO8DGxkumcQR_L_NhA",
+    //   accounts: ["private_key"] //0.01 Eth
+    // }
   },
   solidity: {
     version: "0.8.20",
