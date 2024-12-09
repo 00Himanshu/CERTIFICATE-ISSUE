@@ -14,8 +14,8 @@ To run this project, you need the following:
 
 ### Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/00Himanshu/CERTIFICATE-ISSUE.git
+cd CERTIFICATE-ISSUE
 ```
 
 ### Install dependencies:
