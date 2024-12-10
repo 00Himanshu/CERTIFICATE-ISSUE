@@ -96,7 +96,7 @@ The application is deployed on Vercel and can be accessed at:
 [https://certificate-issue.vercel.app/](https://certificate-issue.vercel.app/)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Authors
 - **Himanshu**
