@@ -675,7 +675,7 @@ function App() {
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',
                 }}>
-                  Welcome to CERTIFICATE-ISSUE"
+                  Welcome to CERTIFICATE-ISSUE
                 </Typography>
                 <Typography variant="h5" color="text.secondary" sx={{ mb: 4 }}>
                   Participate in decentralized decision-making and shape the future of our organization
